@@ -1,12 +1,14 @@
-eos/com-view-server-bundle
+ellinaut/com-view-server-bundle
 ==========================
 
 Symfony integration for [`eos/com-view-server`](https://github.com/eosnewmedia/php-com-view-server)
 
+Replaces `eos/com-view-server-bundle` which isn't maintained anymore.
+
 # Installation
 
 ```bash
-composer require eos/com-view-server-bundle
+composer require ellinaut/com-view-server-bundle
 ```
 
 # Configuration
