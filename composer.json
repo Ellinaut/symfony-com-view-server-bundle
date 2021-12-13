@@ -1,19 +1,19 @@
 {
-  "name": "eos/com-view-server-bundle",
+  "name": "ellinaut/com-view-server-bundle",
   "description": "Symfony integration for eos/com-view-server",
   "type": "symfony-bundle",
   "license": "MIT",
   "authors": [
     {
       "name": "Philipp Marien",
-      "email": "marien@eosnewmedia.de"
+      "email": "philipp@ellinaut.dev"
     }
   ],
   "minimum-stability": "stable",
   "require": {
     "php": ">=7.2",
     "ext-json": "*",
-    "symfony/framework-bundle": "^5.0",
+    "symfony/framework-bundle": "^5.0|^6.0",
     "eos/com-view-server": "^2.0"
   },
   "autoload": {
