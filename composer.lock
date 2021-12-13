@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d66e6096ebfd650bea4d99d5f60e602b",
+    "content-hash": "3c3c94ac61e12296dfaff3e604058044",
     "packages": [
         {
             "name": "eos/com-view-server",
